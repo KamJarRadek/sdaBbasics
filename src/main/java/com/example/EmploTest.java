@@ -11,7 +11,7 @@ public class EmploTest {
 
         sec.printSalary();
         ord.printSalary();
-        System.out.println("czy to sie dodało do gita");
+
 
         System.out.println(sec);
         System.out.println(ord);
